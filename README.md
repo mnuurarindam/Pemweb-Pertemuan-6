@@ -7,7 +7,7 @@ Kelas Pemweb (RB), Praktikum Pemweb Jadwal (A)
 > Program yang dapat mengubah bilangan integer menjadi bilangan romawi
 
 <details>
-<summary>Output</summary>
+<summary>Hasil Output</summary>
 
 Hasil dari bilangan integer yang telah diubah menjadi bilangan romawi
 
