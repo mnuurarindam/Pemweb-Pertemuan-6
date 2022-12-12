@@ -11,5 +11,5 @@ Kelas Pemweb (RB), Praktikum Pemweb Jadwal (A)
 
 Hasil dari bilangan integer yang telah diubah menjadi bilangan romawi
 
-(src/output.png)
+![Output](src/output.png)
 </details>
